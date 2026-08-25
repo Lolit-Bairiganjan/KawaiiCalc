@@ -7,7 +7,7 @@ A retro-styled, pastel pixel-art desktop calculator inspired by 90s magical girl
 ## ✨ Preview
 
 <div align="center">
-  <img src="assets/preview.png" alt="KawaiiCalc Preview" width="360"/>
+  <img src="assets/KawaiiCalc-Preview.png" alt="KawaiiCalc Preview" width="360"/>
 </div>
 
 ---

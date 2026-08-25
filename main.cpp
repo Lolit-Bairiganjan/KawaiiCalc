@@ -12,5 +12,5 @@ int main(int argc, char *argv[])
     Qt::QueuedConnection);
     engine.loadFromModule("KawaiiCalc", "Main");
 
-    return QGuiApplication::exec();
+    return app.exec();
 }

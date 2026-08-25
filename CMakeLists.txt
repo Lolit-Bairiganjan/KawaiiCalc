@@ -22,6 +22,8 @@ qt_add_qml_module(appKawaiiCalc
     URI KawaiiCalc
     QML_FILES
         Main.qml
+        SOURCES
+        SOURCES calcengine.h calcengine.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
